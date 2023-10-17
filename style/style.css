@@ -70,7 +70,7 @@ h2 {
 
 
 .form-control small {
-  color: rgba(230, 76, 76, 0.738);
+  color: red;
   position: absolute;
   bottom: 0;
   left: 0;
